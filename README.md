@@ -50,7 +50,9 @@ To automate the script to run daily, you can set up a cron job:
 
     Replace `/path/to/your/backing_up.sh` with the actual path to the `backing_up.sh` file.
 
-3. **Save and Exit**
+   If downloaded to the root directory (highest (top-most) directory in the filesystem hierarchy) file path will be /root/backing_up/sh
+
+4. **Save and Exit**
 
     Save the file and exit the editor. This will set up the cron job to run the script daily at 2 AM.
 
