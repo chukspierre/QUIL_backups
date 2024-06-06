@@ -8,7 +8,9 @@ This is a basic backup script that creates a new folder in the `$HOME` directory
 - `~/ceremonyclient/node/.config/keys.yml`
 - `~/ceremonyclient/node/.config/store`
 
-## Searchs for directories in the home directory ($HOME) that match the format YYYY-MM-DD (which is the format used for the backup folders created by the script) that are older than 21 days and deletes them to reduce storage utilization.
+## Removal of >21 day old backups
+
+Searchs for directories in the home directory ($HOME) that match the format YYYY-MM-DD (which is the format used for the backup folders created by the script) that are older than 21 days and deletes them to reduce storage utilization.
 
 ## Usage
 
