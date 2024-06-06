@@ -10,7 +10,7 @@ This is a basic backup script that creates a new folder in the `$HOME` directory
 
 ## Usage
 
-1. **Clone the Repository**
+1. **Download the Script**
 
     ```sh
     wget https://raw.githubusercontent.com/TidalWavesNode/QUIL_backups/main/backing_up.sh
