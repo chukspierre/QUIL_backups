@@ -13,3 +13,6 @@ STORE_DIR="$HOME/ceremonyclient/node/.config/store"
 cp "$CONFIG_FILE" "$BACKUP_DIR"
 cp "$KEYS_FILE" "$BACKUP_DIR"
 cp -r "$STORE_DIR" "$BACKUP_DIR"
+
+# Delete folders older than 21 days
+find "$HOME" -maxdepth 1 -type d -name "????-??-??" -mtime +21 -exec rm -rf {} \;
