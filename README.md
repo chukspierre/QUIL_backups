@@ -68,6 +68,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes or enhancements.
 
+## Disclaim
+
+## Disclaimer
+
+**Use at your own risk:** This backup script and associated instructions are provided as-is and without warranty. While efforts have been made to ensure its reliability, it's essential to understand the functionality and implications of using the script. By using this script, you agree that the author and contributors shall not be held liable for any damages or issues arising from its use.
+
+**Read the code:** Before using this script, it's strongly recommended to review the code to understand its behavior fully. Ensure that the script aligns with your requirements and that you are comfortable with its operation. Feel free to modify the script to suit your specific needs or consult with a knowledgeable individual if you have any questions or concerns.
+
 ## Author
 
 Created by [TidalWavesNode](https://github.com/tidalwavesnode).
