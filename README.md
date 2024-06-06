@@ -50,7 +50,7 @@ To automate the script to run daily, you can set up a cron job:
 
     Replace `/path/to/your/backing_up.sh` with the actual path to the `backing_up.sh` file.
 
-   *** If downloaded to the root directory (highest (top-most) directory in the filesystem hierarchy) file path will be /root/backing_up/sh ***
+   * Note - If downloaded to the root directory (highest (top-most) directory in the filesystem hierarchy) file path will be /root/backing_up/sh
 
 4. **Save and Exit**
 
