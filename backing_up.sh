@@ -14,5 +14,5 @@ cp "$CONFIG_FILE" "$BACKUP_DIR"
 cp "$KEYS_FILE" "$BACKUP_DIR"
 cp -r "$STORE_DIR" "$BACKUP_DIR"
 
-# Delete folders older than 21 days
+# Delete folders older than 10 days
 find "$HOME" -maxdepth 1 -type d -name "????-??-??" -mtime +10 -exec rm -rf {} \;
