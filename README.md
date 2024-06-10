@@ -12,6 +12,8 @@ This is a basic backup script that creates a new folder in the `$HOME` directory
 
 Searchs for directories in the home directory ($HOME) that match the format YYYY-MM-DD (which is the format used for the backup folders created by the script) that are older than 21 days and deletes them to reduce storage utilization.
 
+![image](https://github.com/TidalWavesNode/QUIL_backups/assets/33072338/4c25bb6c-865b-4eeb-9d5e-0424cb876fa4)
+
 ## Usage
 
 1. **Download the Script**
