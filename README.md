@@ -8,6 +8,8 @@ This is a basic backup script that creates a new folder in the `$HOME` directory
 - `~/ceremonyclient/node/.config/keys.yml`
 - `~/ceremonyclient/node/.config/store`
 
+## Example of $HOME dir showing several days worth of backups
+
 ![image](https://github.com/TidalWavesNode/QUIL_backups/assets/33072338/4c25bb6c-865b-4eeb-9d5e-0424cb876fa4)
 
 ## Removal of backups that are older than 10 days
