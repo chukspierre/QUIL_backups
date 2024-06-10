@@ -10,7 +10,7 @@ This is a basic backup script that creates a new folder in the `$HOME` directory
 
 ### Example of $HOME dir showing several days worth of backups
 
-![image](https://github.com/TidalWavesNode/QUIL_backups/assets/33072338/4c25bb6c-865b-4eeb-9d5e-0424cb876fa4)
+![image](https://github.com/TidalWavesNode/QUIL_backups/assets/33072338/66a6dc35-bc43-4430-a3e1-4c8484dfd7c6)
 
 ## Removal of backups that are older than 10 days
 
