@@ -23,14 +23,18 @@ Searchs for directories in the home directory ($HOME) that match the format YYYY
     ```sh
     wget https://raw.githubusercontent.com/TidalWavesNode/QUIL_backups/main/backing_up.sh
     ```
+    Or for entire .config dir
+   ```sh
+   https://raw.githubusercontent.com/TidalWavesNode/QUIL_backups/main/Backup-config.sh
+   ```
 
-2. **Make the Script Executable**
+3. **Make the Script Executable**
 
     ```sh
     chmod +x backing_up.sh
     ```
 
-3. **Run the Script Manually**
+4. **Run the Script Manually**
 
     You can run the script manually to test it:
 
